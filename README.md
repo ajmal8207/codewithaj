@@ -1,4 +1,4 @@
 # codewithaj
 This is my first Git repository
 <br>
-author - Md Ajmal (Aj)
+author - Md Ajmal (Freelancer)
